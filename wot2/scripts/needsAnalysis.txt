@@ -1,0 +1,87 @@
+stamen|||Let's start with what area of photography interests you, you may have more than one so I'll collect up to 3
+cloque|||What's your main interest, I'll give this more weighting.
+>>>gex|||grp1
+>>>opt|||Family & friend events
+>>>opt|||Street photography
+>>>opt|||Landscape
+>>>opt|||Action & sports
+>>>opt|||Business / pro work
+>>>ren|||Select one of :
+>>>res
+stamen|||Note that as we progress you can alter your previous answer by clicking on it.
+cloque|||What is your secondary reason for wanting this camera ?
+>>>gex|||grp1
+>>>opt|||Family & friend events
+>>>opt|||Street photography
+>>>opt|||Landscape
+>>>opt|||Action & sports
+>>>opt|||Business / pro work
+>>>ren|||Select one of :
+>>>res
+cloque|||What is your third reason for wanting this camera ?
+>>>gex|||grp1
+>>>opt|||Family & friend events
+>>>opt|||Street photography
+>>>opt|||Landscape
+>>>opt|||Action & sports
+>>>opt|||Business / pro work
+>>>ren|||Select one of :
+>>>res
+cloque|||Lets start with determining determing 
+>>>opt|||up to a $1000
+>>>opt|||Up to $3000
+>>>opt|||$3000 plus
+>>>ren|||Select one of :
+>>>res
+cloque|||So lets start with determining a budget range that best suits your current situation.
+>>>opt|||up to a $1000
+>>>opt|||Up to $3000
+>>>opt|||$3000 plus
+>>>ren|||Select one of :
+>>>res
+cloque|||are you looking to start investing in a camera system or would be happy with just the camera with no plan to invest in more equipment ?
+>>>opt|||Yes, I'd like to build a kit
+>>>opt|||No, just want a single camera
+>>>ren|||Select one of :
+>>>res
+stamen|||I'll also assume you're after something more substantial than a basic point & shoot as your current mobile may already produce photos equal to what basic point & shoot camera can achieve
+cloque|||Is it for personal or business use ?
+>>>opt|||Personal
+>>>opt|||Business
+>>>opt|||A bit of both
+>>>ren|||Select one of :
+>>>res
+cloque|||Do you have a preference for a size & weight ?
+>>>opt|||As small & light as possible
+>>>opt|||I'm OK with a big and heavy
+>>>opt|||Somewhere in between
+>>>ren|||Select one of :
+>>>res
+cloque|||Would you prefer a camera that is discrete, that doesn't bring to much attention to it self ?
+>>>opt|||Yes
+>>>opt|||No
+>>>opt|||Don't care
+>>>ren
+>>>res
+cloque|||Will you be using it in low light scenarios such as in door & at night ?
+>>>opt|||Mainly during daylight
+>>>opt|||Mainly in low light scenarios
+>>>opt|||A bit of both
+>>>ren|||Select one of :
+>>>res
+cloque|||Do you have a preference about using a flash ?
+>>>opt|||I prefer not to use one
+>>>opt|||I will need to use a flash
+>>>opt|||Not bothered
+>>>ren|||Select one of :
+>>>res
+cloque|||Will you be using it in non-ideal weather conditions, such as rain ?
+>>>opt|||Yes
+>>>opt|||No
+>>>ren
+>>>res
+cloque|||Do you plan on printing your photos in large scale ?
+>>>opt|||Mainly small prints and sharing via digital media
+>>>opt|||Yes, large wall frames and canvas prints
+>>>ren
+>>>res

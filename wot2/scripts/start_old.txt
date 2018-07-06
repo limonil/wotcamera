@@ -1,0 +1,14 @@
+stamen|||Hi, Welcome to Wot Camera
+stamen|||I can help you to select a camera based on your preferences.
+stamen|||as well as explain the various options and attributes of a camera.
+cloque|||Where would you like to start?
+>>>opt|||Chosing a Camera
+>>>opt|||Aperture
+>>>opt|||Shutter
+>>>opt|||ISO
+>>>opt|||Lens
+>>>opt|||Jpeg or Raw format
+>>>opt|||Weather or water resistant
+>>>opt|||Advanced Topics
+>>>ren
+chascr

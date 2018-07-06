@@ -1,0 +1,29 @@
+stamen|||This what the front, back & top of a typical entry level Digital SLR look like.
+>>>pic|||photos/entrySlrFront.png
+>>>pic|||photos/entrySlrBack.png
+>>>pic|||photos/entrySlrTop.png
+>>>rex|||Next
+stamen|||This is a Mirrorless
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a MEDIUM FORMAT
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a Point & Shoot
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a Range Finder
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a Action Camera
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a Film camera
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a TLR
+>>>pic|||mirPic1.png
+>>>rex|||Next
+stamen|||This is a High End Compact
+>>>pic|||mirPic1.png
+>>>rex|||Next

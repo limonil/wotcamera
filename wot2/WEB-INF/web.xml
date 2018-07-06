@@ -1,0 +1,38 @@
+<!DOCTYPE web-app 
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" 
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+<welcome-file-list>
+ <welcome-file>home.htm</welcome-file>
+</welcome-file-list>
+
+    <display-name>WOT CAMERA</display-name>
+ 
+    <servlet>
+        <servlet-name>c1</servlet-name>
+        <servlet-class>c1</servlet-class>
+
+   	<init-param>
+        	<param-name>scriptDirectory</param-name>
+        	<param-value>/applications/apache-tomcat-9.0.5/webapps/wot2/scripts</param-value>
+    	</init-param>	
+
+  	<init-param>
+        	<param-name>conversationLog</param-name>
+        	<param-value>/applications/apache-tomcat-9.0.5//webapps/wot2/log/log.txt</param-value>
+    	</init-param>	
+
+    </servlet>
+
+   <servlet-mapping>
+        <servlet-name>c1</servlet-name>
+        <url-pattern>/c1</url-pattern> 
+    </servlet-mapping>
+
+    <session-config>
+      <session-timeout>30</session-timeout>    
+    </session-config>
+
+</web-app>

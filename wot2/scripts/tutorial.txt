@@ -1,0 +1,40 @@
+cloque|||Hello, I'm here to help you decide on a camera. I'll be asking you a number of question in order find a camera to meet your needs. So, if your're to start press the button below.
+>>>opt|||Lets's Start
+>>>ren
+>>>res
+cloque|||Do you have a preference for a type of camera ?
+>>>opt|||SLR
+>>>opt|||Mirrorless
+>>>opt|||Compact
+>>>ren|||Please select from one of the following options :
+>>>res
+cloque|||What is your budget ?.
+>>>opt|||Under 500
+>>>opt|||500 to 1000
+>>>opt|||Uncapped
+>>>opt|||astro
+>>>ren|||Select one of :
+>>>res
+cloque|||Do you have a preferrance for a particular focal length ?
+>>>opt|||Wide
+>>>opt|||Medium
+>>>opt|||Telephoto
+>>>ren|||Select one of :
+>>>res
+cloque|||Do you need it to be compact ?
+>>>opt|||Yes
+>>>opt|||No
+>>>ren|||Select one of :
+>>>res
+cloque|||Do you want to take it underwater ?
+>>>opt|||Yes
+>>>opt|||No
+>>>ren
+>>>res
+cloque|||Do you take photos in low light ?
+>>>opt|||Yes
+>>>opt|||No
+>>>ren
+>>>res
+opeque|||What is your first name ?
+>>>res
